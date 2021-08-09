@@ -6,5 +6,6 @@ public class Hellowrld {
         System.out.println("changes made in remote file");
         System.out.println("changes in local");
         System.out.println("second time updating to rise conflict");
+        System.out.println("did changes in remote after creating newbranch")
     }
 }
