@@ -5,5 +5,6 @@ public class Hellowrld {
         System.out.println("hello world");
         System.out.println("changes made in remote file");
         System.out.println("changes in local");
+        System.out.println("second time updating to rise conflict");
     }
 }
